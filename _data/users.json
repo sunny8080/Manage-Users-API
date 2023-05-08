@@ -1,0 +1,32 @@
+[
+  {
+    "username": "sunny8080",
+    "age": 22,
+    "hobbies": ["coding", "cricket", "ludo"]
+  },
+  {
+    "username": "raj_cool_dude_123",
+    "age": 15,
+    "hobbies": ["gaming"]
+  },
+  {
+    "username": "pawan123456",
+    "age": 23,
+    "hobbies": ["cricket", "biking"]
+  },
+  {
+    "username": "sumit789",
+    "age": 25,
+    "hobbies": ["reading", "music", "racing"]
+  },
+  {
+    "username": "ashish_7352",
+    "age": 30,
+    "hobbies": ["camping", "dancing"]
+  },
+  {
+    "username": "sataym_prakash_123",
+    "age": 28,
+    "hobbies": ["coding", "reading", "learning"]
+  }
+]
