@@ -4,8 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "NODE_ENV=production node server",
-    "dev": "nodemon server"
+    "start:prod": "PORT=4000 NODE_ENV=production node server",
+    "start:dev": "PORT=4000 nodemon server"
   },
   "keywords": [],
   "author": "",

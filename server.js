@@ -5,6 +5,7 @@ const errorHandler = require('./middleware/errorHandler');
 const morgan = require('morgan');
 const userR = require('./routes/userR');
 const notFoundR = require('./routes/notFoundR');
+const path = require('path');
 
 // load env vars
 dotenv.config({ path: './config/config.env' });
@@ -22,6 +23,9 @@ if (process.env.NODE_ENV === 'development') {
 
 // body parser
 app.use(express.json());
+
+// set static folder
+app.use(express.static(path.join(__dirname, "public")));
 
 // Mount Routers
 app.use('/api/users', userR);
