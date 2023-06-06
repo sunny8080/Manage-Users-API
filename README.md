@@ -36,9 +36,11 @@ node seeder -i
 
 ## Demo
 
-The API is live at [sunny8080-manage-users-api.onrender.com](https://sunny8080-manage-users-api.onrender.com/)
+The API is live at render [sunny8080-manage-users-api.onrender.com](https://sunny8080-manage-users-api.onrender.com/)
 
-Extensive documentation with examples [here](https://documenter.getpostman.com/view/19721099/2s93ebRVfe)
+The API is live at aws [http://sunny8080-manage-users-api.ap-south-1.elasticbeanstalk.com/](http://sunny8080-manage-users-api.ap-south-1.elasticbeanstalk.com/)
+
+Extensive documentation with examples on postman [Click Here](https://documenter.getpostman.com/view/19721099/2s93ebRVfe)
 
 - Version: 1.0.0
 - License: Sunny8080
